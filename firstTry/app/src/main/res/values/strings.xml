@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firstTry</string>
+    <string name="Topbutton">header</string>
+    <string name="bottomLeftbutton">left</string>
+    <string name="bottomRightbutton">right</string>
+
+</resources>
